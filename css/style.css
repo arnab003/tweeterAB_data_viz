@@ -1,0 +1,71 @@
+body {
+	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+}
+
+h1 {
+	color: #045a8d;
+}
+
+p {
+	margin: 8px;
+}
+
+.main {
+	padding-top: 5px;
+	width: 580px;
+}
+
+#head {
+	font-size: 1.8em;
+}
+
+.story_head {
+	border-radius: 5px;
+	padding: 3px;
+	font-family:Candara;
+}
+
+.story {
+	font-size: 16px;
+	font-family:Candara;
+}
+
+#cinema {
+	background: #e41a1c;
+	color: white;
+}
+
+#sport {
+	background: #fb9a99;
+	color: black;
+}
+
+#family {
+	background: #33a02c;
+	color: white;
+}
+
+#kbc {
+	background: #ff7f00;
+	color: black;
+}
+
+#india {
+	background: #428bca;
+	color: white;
+}
+
+#emo {
+	background: purple;
+	color: white;
+}
+
+#quote {
+	background: #969696;
+	color: white;
+}
+
+#other {
+	background: #754719;
+	color: white;
+}
